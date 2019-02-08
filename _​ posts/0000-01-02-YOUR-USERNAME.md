@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: “Welcome to our second slide!”
+layout: final slide
+title: “Welcome to our final slide!”
 ---
-Your test
+Your final test
 Use the left arrow to go back!
